@@ -87,3 +87,5 @@
 - `ssh user@host`: _connect to host as user_
 
 - `ssh -p port user@host`: _connect using port p_
+
+- `ip address`: _show ip address from each network interfaces_
